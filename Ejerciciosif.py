@@ -15,4 +15,13 @@ if nacionalidad == "N":
     print("Eres de nacionalidad mexicana")
 else:
     print("No eres de nacionalidad mexicana")
+
+if edad >= 16: # if para ofrecer la oferta a mayores de 16
+    print("Calificas para la oferta especial de cliente")
+else:
+    print("No aplicas con la edad mínima para la oferta")
+if confirm pass == passwordClient:
+    print("Confirmar contraseña del cliente")
+else:
+    print("Contraseña del cliente rechazada")
         
